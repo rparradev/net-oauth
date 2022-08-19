@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.Api.OAuth", "NET.Api.OAuth\NET.Api.OAuth.csproj", "{1BEEE92B-4CF5-48FD-BCDA-FA5D29DD8B5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.Api.OAuth", "NET.Api.OAuth\NET.Api.OAuth.csproj", "{DACBB17C-89FA-42A8-9C4A-EC2E561769D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1BEEE92B-4CF5-48FD-BCDA-FA5D29DD8B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1BEEE92B-4CF5-48FD-BCDA-FA5D29DD8B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1BEEE92B-4CF5-48FD-BCDA-FA5D29DD8B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1BEEE92B-4CF5-48FD-BCDA-FA5D29DD8B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACBB17C-89FA-42A8-9C4A-EC2E561769D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACBB17C-89FA-42A8-9C4A-EC2E561769D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACBB17C-89FA-42A8-9C4A-EC2E561769D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACBB17C-89FA-42A8-9C4A-EC2E561769D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {04238F7A-3AE5-4018-854B-C7B0E34BFFC8}
+		SolutionGuid = {FA226DA7-B75D-43A3-832D-A174E33A867C}
 	EndGlobalSection
 EndGlobal
